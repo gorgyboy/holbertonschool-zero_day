@@ -1,3 +1,3 @@
 # holbertonschool-zero_day 
 
-I'm now a Holberton Student, this is my first repository as a full-stack engineer
+This repo contains the first steps taken to learn how to use vagrant, emacs, vi and git
